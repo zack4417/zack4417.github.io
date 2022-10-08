@@ -1,0 +1,4 @@
+baseURL = "http://zhengleily.github.io/"
+languageCode = "en-us"
+title = "My New Academic Site"
+theme = "wowchemy-hugo-themes"
