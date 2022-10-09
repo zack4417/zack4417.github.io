@@ -13,15 +13,6 @@
     
     
     <item>
-      <title>Artificial Intelligence</title>
-      <link>https://zack4417.github.io/project/artificial-intelligence/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://zack4417.github.io/project/artificial-intelligence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Deep Learning</title>
       <link>https://zack4417.github.io/project/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -31,11 +22,11 @@
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>https://zack4417.github.io/project/external-project/</link>
+      <title>High-speed trajectory replanning</title>
+      <link>https://zack4417.github.io/project/xag/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://zack4417.github.io/project/external-project/</guid>
+      <guid>https://zack4417.github.io/project/xag/</guid>
       <description></description>
     </item>
     
@@ -59,6 +50,15 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://zack4417.github.io/project/robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safety-critical Agricultural Drone</title>
+      <link>https://zack4417.github.io/project/aerial-robotics/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/project/aerial-robotics/</guid>
       <description></description>
     </item>
     

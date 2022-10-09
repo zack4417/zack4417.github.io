@@ -7,7 +7,7 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 28 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://zack4417.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Source Themes</title>
       <link>https://zack4417.github.io/tags/source-themes/</link>
-      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://zack4417.github.io/tags/source-themes/</guid>
       <description></description>
@@ -36,6 +36,15 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://zack4417.github.io/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>experiments</title>
+      <link>https://zack4417.github.io/tags/experiments/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/tags/experiments/</guid>
       <description></description>
     </item>
     
