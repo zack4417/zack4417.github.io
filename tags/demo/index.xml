@@ -7,10 +7,19 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jun 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://zack4417.github.io/tags/demo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>High-speed flight</title>
+      <link>https://zack4417.github.io/project/xag/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/project/xag/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Deep Learning</title>
@@ -18,6 +27,15 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://zack4417.github.io/project/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safety-critical Agricultural Drone</title>
+      <link>https://zack4417.github.io/project/aerial-robotics/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/project/aerial-robotics/</guid>
       <description></description>
     </item>
     
