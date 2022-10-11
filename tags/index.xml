@@ -13,25 +13,7 @@
     
     
     <item>
-      <title>Demo</title>
-      <link>https://zack4417.github.io/tags/demo/</link>
-      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://zack4417.github.io/tags/demo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Experiments</title>
-      <link>https://zack4417.github.io/tags/experiments/</link>
-      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://zack4417.github.io/tags/experiments/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robotics</title>
+      <title>robotics</title>
       <link>https://zack4417.github.io/tags/robotics/</link>
       <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
       
@@ -42,27 +24,27 @@
     <item>
       <title>Source Themes</title>
       <link>https://zack4417.github.io/tags/source-themes/</link>
-      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://zack4417.github.io/tags/source-themes/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>https://zack4417.github.io/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>learning</title>
+      <link>https://zack4417.github.io/tags/learning/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://zack4417.github.io/tags/deep-learning/</guid>
+      <guid>https://zack4417.github.io/tags/learning/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>human</title>
-      <link>https://zack4417.github.io/tags/human/</link>
+      <title>Autonomous Driving</title>
+      <link>https://zack4417.github.io/tags/autonomous-driving/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://zack4417.github.io/tags/human/</guid>
+      <guid>https://zack4417.github.io/tags/autonomous-driving/</guid>
       <description></description>
     </item>
     

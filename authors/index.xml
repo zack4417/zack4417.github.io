@@ -7,7 +7,7 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Fri, 04 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://zack4417.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,45 @@
     <item>
       <title>Cheng Hui</title>
       <link>https://zack4417.github.io/authors/cheng-hui/</link>
-      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://zack4417.github.io/authors/cheng-hui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lei Zheng</title>
+      <link>https://zack4417.github.io/authors/lei-zheng/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/authors/lei-zheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rui Yang</title>
+      <link>https://zack4417.github.io/authors/rui-yang/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/authors/rui-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wu, Zhixuan</title>
+      <link>https://zack4417.github.io/authors/wu-zhixuan/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/authors/wu-zhixuan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yang, Rui</title>
+      <link>https://zack4417.github.io/authors/yang-rui/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/authors/yang-rui/</guid>
       <description></description>
     </item>
     
@@ -31,38 +67,11 @@
     </item>
     
     <item>
-      <title>Lei Zheng</title>
-      <link>https://zack4417.github.io/authors/lei-zheng/</link>
-      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
+      <title>Hui Cheng</title>
+      <link>https://zack4417.github.io/authors/hui-cheng/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://zack4417.github.io/authors/lei-zheng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rui Yang</title>
-      <link>https://zack4417.github.io/authors/rui-yang/</link>
-      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://zack4417.github.io/authors/rui-yang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wu, Zhixuan</title>
-      <link>https://zack4417.github.io/authors/wu-zhixuan/</link>
-      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://zack4417.github.io/authors/wu-zhixuan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yang, Rui</title>
-      <link>https://zack4417.github.io/authors/yang-rui/</link>
-      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://zack4417.github.io/authors/yang-rui/</guid>
+      <guid>https://zack4417.github.io/authors/hui-cheng/</guid>
       <description></description>
     </item>
     
@@ -78,23 +87,15 @@
     <item>
       <title></title>
       <link>https://zack4417.github.io/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://zack4417.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I am a phd student in the Thrust of Robotics and Autonomous Systems (ROAS) under the Systems Hub at the Hong Kong University of Science and Technology (Guangzhou Campus). My research interests include Autonomous Driving, Unmanned Aerial Vehicles, Multi-agent Systems, Motion Planning and Safe Learning-based Control.&lt;/p&gt;
+      <description>&lt;p&gt;I am a phd student in the Thrust of Robotics and Autonomous Systems (ROAS) under the Systems Hub at the Hong Kong University of Science and Technology (Guangzhou Campus). Before joining Ma Lab, I worked as a senior robotics engineer at XAG.&lt;/p&gt;
+&lt;p&gt;My research interests include Autonomous Driving, Unmanned Aerial Vehicles, Multi-agent Systems, Motion Planning and Safe Learning-based Control.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;&lt;img src=&#34;../../img/certifacates.jpg&#34; alt=&#34;reviews&#34;&gt;&lt;/p&gt;
-&lt;p&gt;It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum. The point of using Lorem Ipsum. distracted by the readable content of a page.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Hui Cheng</title>
-      <link>https://zack4417.github.io/authors/hui-cheng/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://zack4417.github.io/authors/hui-cheng/</guid>
-      <description></description>
     </item>
     
   </channel>
