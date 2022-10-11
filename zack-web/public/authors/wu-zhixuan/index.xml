@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wu, Zhixuan on Academic website</title>
+    <link>https://zack4417.github.io/authors/wu-zhixuan/</link>
+    <description>Recent content in Wu, Zhixuan on Academic website</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://zack4417.github.io/authors/wu-zhixuan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Safe Learning-Based Feedback Linearization Tracking Control for Nonlinear System with Event-Triggered Model Update</title>
+      <link>https://zack4417.github.io/publication/2022ral/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/publication/2022ral/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Safe learning-based gradient-free model predictive control based on cross-entropy method</title>
+      <link>https://zack4417.github.io/publication/2022eaai/</link>
+      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/publication/2022eaai/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
