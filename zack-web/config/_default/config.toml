@@ -5,7 +5,7 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Academic website"
+title = "Lei Zheng"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
@@ -16,7 +16,7 @@ baseURL = "https://zack4417.github.io"
 copyright = "Copyright &copy; {year}"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "G-9G1F6B7L3J"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""

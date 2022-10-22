@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>robotics on Academic website</title>
+    <title>robotics on Lei Zheng</title>
     <link>https://zack4417.github.io/tags/robotics/</link>
-    <description>Recent content in robotics on Academic website</description>
+    <description>Recent content in robotics on Lei Zheng</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
@@ -14,17 +14,17 @@
     
     <item>
       <title>High-speed flight</title>
-      <link>https://zack4417.github.io/project/xag/</link>
+      <link>https://zack4417.github.io/project/high-speed-flight/</link>
       <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://zack4417.github.io/project/xag/</guid>
+      <guid>https://zack4417.github.io/project/high-speed-flight/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Robotics</title>
+      <title>Multi-agent flight</title>
       <link>https://zack4417.github.io/project/robotics/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://zack4417.github.io/project/robotics/</guid>
       <description></description>

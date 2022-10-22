@@ -48,12 +48,12 @@
   </url>
   
   <url>
-    <loc>https://zack4417.github.io/</loc>
+    <loc>https://zack4417.github.io/talk/coding/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zack4417.github.io/talk/coding/</loc>
+    <loc>https://zack4417.github.io/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
@@ -73,7 +73,12 @@
   </url>
   
   <url>
-    <loc>https://zack4417.github.io/project/xag/</loc>
+    <loc>https://zack4417.github.io/project/high-speed-flight/</loc>
+    <lastmod>2022-06-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zack4417.github.io/project/robotics/</loc>
     <lastmod>2022-06-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -233,22 +238,12 @@
   </url>
   
   <url>
-    <loc>https://zack4417.github.io/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zack4417.github.io/project/robotics/</loc>
+    <loc>https://zack4417.github.io/project/autonomous-driving/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://zack4417.github.io/project/aerial-robotics/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zack4417.github.io/project/skin-cancer-ai/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   

@@ -31,7 +31,7 @@ subtitle = "ALL THINGS ARE DIFFICULT BEFORE THEY ARE EASY"
    
   [[content.filter_button]]
     name = "Autonomous Driving"
-    tag = "human"
+    tag = "autonomous driving"
   
   [[content.filter_button]]
     name = "Robotics"

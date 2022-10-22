@@ -35,9 +35,9 @@ interests:
 - Safe Learning
 education:
   courses:
-  - course: Ph.D. Student in Robotics and Autonomous Systems 
+  - course: Ph.D. in Robotics and Autonomous Systems 
     institution: The Hong Kong University of Science and Technology (GZ Campus)
-    year: 2022 
+    year: 2022 - Present
   - course: M.Eng. in Pattern Recognition and Intelligent Systems
     institution: Sun Yat-sen University
     year: 2021
@@ -78,7 +78,7 @@ user_groups:
 - Visitors
 ---
 
-I am a phd student in the Thrust of Robotics and Autonomous Systems (ROAS) under the Systems Hub at the Hong Kong University of Science and Technology (Guangzhou Campus). Before joining Ma Lab, I worked as a senior robotics engineer at XAG. 
+I am a PHD student in the Thrust of Robotics and Autonomous Systems (ROAS) under the Systems Hub at the Hong Kong University of Science and Technology (Guangzhou Campus). Before joining Ma Lab, I worked as a senior robotics engineer at XAG. The associated trajectory replanning algorithm and safe backup policy have been used in over 50 countries and regions.
   
 My research interests include Autonomous Driving, Unmanned Aerial Vehicles, Multi-agent Systems, Motion Planning and Safe Learning-based Control.
  
