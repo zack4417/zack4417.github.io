@@ -2,7 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/
 
 # marketing
-microsoft_clarity = ""
+# microsoft_clarity = ""
+google_tag_manager = 'G-9G1F6B7L3J'
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`, `strawberry`.
@@ -54,7 +55,7 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "lzheng135@hkust-gz.edu.cn"
-phone = "888 888 88 88"
+# phone = "888 888 88 88"
 address = "1 Duxue Road, Nansha, Guangzhou, China"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours

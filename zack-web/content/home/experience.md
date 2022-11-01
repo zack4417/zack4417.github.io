@@ -32,8 +32,8 @@ date_format = "Jan 2006"
   
   * Flight data analysis
   * Developing visualization environment for mapping and planning algorithms
-  * Developing state-of-the-art motion control and trajectory optimization software and integrating software into test vehicles.
-  * Creating highly reliable, maintainable, and testable code (modern C++) by applying best-practice software engineering methods, including code reviews, design guidelines, refactoring, unit and regression testing.
+  * Developing state-of-the-art motion control and trajectory optimization software and integrating software into test vehicles
+  * Creating highly reliable, maintainable, and testable code (modern C++) by applying best-practice software engineering methods, including code reviews, design guidelines, refactoring, unit and regression testing
   * Contributing to agricultural production projects, including requirement engineering, validation, and verification
   * writing patents and engaging with the scientific community
 
