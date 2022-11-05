@@ -13,6 +13,17 @@
     
     
     <item>
+      <title>April 2021: New journal article of IEEE Robotics and Automation Letters.</title>
+      <link>https://zack4417.github.io/post/icra2021_post/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/post/icra2021_post/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Propose a learning-based MPFC control paradigm for nonlinear systems under uncertain disturbances, coupling a high-level model predictive path following controller for proactivity with a low-level learning-based feedback linearization controller for adaptivity. Following that, nonlinear systems can rapidly
+rejoin their reference trajectory after sudden wind disturbances with stability guarantees!&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Learning-Based Predictive Path Following Control for Nonlinear Systems Under Uncertain Disturbances</title>
       <link>https://zack4417.github.io/publication/2021ral/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
@@ -21,17 +32,6 @@
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>April 2021: New journal article of IEEE Robotics and Automation Letters.</title>
-      <link>https://zack4417.github.io/post/icra2021_post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zack4417.github.io/post/icra2021_post/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Propose a learning-based MPFC control paradigm for nonlinear systems under uncertain disturbances, coupling a high-level model predictive path following controller for proactivity with a low-level learning-based feedback linearization controller for adaptivity. Following that, nonlinear systems can rapidly
-rejoin their reference trajectory after sudden wind disturbances with stability guarantees!&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     

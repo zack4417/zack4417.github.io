@@ -7,10 +7,22 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://zack4417.github.io/tags/autonomous-driving/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Learning-Based Safety-Stability-Driven Control for Safety-Critical Systems under Model Uncertainties</title>
+      <link>https://zack4417.github.io/publication/wcsp2020/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/publication/wcsp2020/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Connected Cruise Control in Mixed Traffic Flow</title>
