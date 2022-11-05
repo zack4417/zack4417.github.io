@@ -128,11 +128,6 @@
   </url>
   
   <url>
-    <loc>https://zack4417.github.io/authors/yang-rui/</loc>
-    <lastmod>2022-04-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://zack4417.github.io/authors/jiesen-pan/</loc>
     <lastmod>2022-02-04T00:00:00+00:00</lastmod>
   </url>
@@ -188,21 +183,6 @@
   </url>
   
   <url>
-    <loc>https://zack4417.github.io/authors/admin/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zack4417.github.io/post/jupyter/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zack4417.github.io/post/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://zack4417.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
@@ -228,22 +208,35 @@
   </url>
   
   <url>
-    <loc>https://zack4417.github.io/post/snail/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>https://zack4417.github.io/authors/admin/</loc>
   </url>
   
   <url>
     <loc>https://zack4417.github.io/tags/academia/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zack4417.github.io/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>https://zack4417.github.io/post/icra2021_post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zack4417.github.io/post/icra2022_post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zack4417.github.io/post/eaai_pub/</loc>
   </url>
   
   <url>
     <loc>https://zack4417.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zack4417.github.io/post/acc_pub/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zack4417.github.io/post/</loc>
   </url>
   
 </urlset>

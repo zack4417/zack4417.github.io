@@ -60,5 +60,36 @@
 </description>
     </item>
     
+    <item>
+      <title>April 2021: New journal article of IEEE Robotics and Automation Letters.</title>
+      <link>https://zack4417.github.io/post/icra2021_post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/post/icra2021_post/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Propose a learning-based MPFC control paradigm for nonlinear systems under uncertain disturbances, coupling a high-level model predictive path following controller for proactivity with a low-level learning-based feedback linearization controller for adaptivity. Following that, nonlinear systems can rapidly
+rejoin their reference trajectory after sudden wind disturbances with stability guarantees!&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>April 2022: New journal article of the International Federation of Automatic Control (IFAC).</title>
+      <link>https://zack4417.github.io/post/eaai_pub/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/post/eaai_pub/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;The control framework integrates a learning-based MPC with an auxiliary controller in a way of minimal intervention!&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>May 2021: New conference article of the American Control Conference.</title>
+      <link>https://zack4417.github.io/post/acc_pub/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/post/acc_pub/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Present a learning-based safety-preserving cascaded quadratic programming control for safe trajectory tracking under wind disturbances!&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
