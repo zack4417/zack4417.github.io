@@ -32,7 +32,9 @@ abstract: Enforcing safety on precise trajectory tracking is critical for aerial
 # Summary. An optional shortened abstract.
 summary: Enforcing safety on precise trajectory tracking is critical for aerial robotics subject to wind disturbances. In this paper, we present a learning-based safety-preserving cascaded quadratic programming control for safe trajectory tracking under wind disturbances. 
 tags:
-- Source Themes
+- academia
+- robotics
+- learning
 featured: true
 
 links:

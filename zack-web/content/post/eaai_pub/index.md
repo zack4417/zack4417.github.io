@@ -11,8 +11,10 @@ authors:
 - Cheng Hui
 tags:
 - academia
+- robotics
+- learning
 categories: []
-date: ""
+date: "2022-02-04T00:00:00Z"
 lastmod: ""
 featured: false
 draft: false

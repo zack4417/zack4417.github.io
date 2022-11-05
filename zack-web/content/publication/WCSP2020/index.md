@@ -34,7 +34,10 @@ abstract: Safety and tracking stability are crucial for safety-critical systems 
 # Summary. An optional shortened abstract.
 summary: A learning-based safety-stability-driven control algorithm is presented to guarantee the safety and tracking stability for nonlinear safety-critical systems subject to control input constraints under model uncertainties.
 tags:
-- Source Themes
+- academia
+- robotics
+- learning
+- autonomous driving
 featured: true
 
 links:

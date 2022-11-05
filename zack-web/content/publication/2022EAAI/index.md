@@ -33,7 +33,9 @@ abstract: In this paper, a safe and learning-based control framework for model p
 # # Summary. An optional shortened abstract.
 summary: A safe and learning-based control framework for model predictive control is proposed to optimize nonlinear systems with a non-differentiable objective function under uncertain environmental disturbances. The control framework integrates a learning-based MPC with an auxiliary controller in a way of minimal intervention.
 tags:
-- Source Themes
+- academia
+- robotics
+- learning
 featured: true
 
 # links:

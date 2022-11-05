@@ -32,7 +32,9 @@ abstract: Learning-based methods are powerful in handling complex scenarios. How
 summary: We propose a learning-based tracking control scheme based on a feedback linearization controller in which uncertain disturbances are approximated online using Gaussian Processes. Using the predicted distribution of disturbances given by GPs, a Control Lyapunov Function and Control Barrier Function based Quadratic Program is applied, with which probabilistic stability and safety are guaranteed.
 
 tags:
-- Source Themes
+- academia
+- robotics
+- learning
 featured: true
 
 # links:

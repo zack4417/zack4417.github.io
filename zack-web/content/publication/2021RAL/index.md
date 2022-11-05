@@ -33,7 +33,9 @@ abstract: Accurate path following is challenging for autonomous robots operating
 summary: A learning-based MPFC control paradigm for nonlinear systems under uncertain disturbances, coupling a high-level model predictive path following controller for proactivity with a low-level learning-based feedback linearization controller for adaptivity. Following that, nonlinear systems can rapidly rejoin their reference trajectory after sudden wind disturbances with stability guarantees.
 
 tags:
-- Source Themes
+- academia
+- robotics
+- learning
 featured: true
 
 # links:
