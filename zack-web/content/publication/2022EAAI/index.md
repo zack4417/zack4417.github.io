@@ -30,9 +30,8 @@ publication_short: In *EAAI*
 
 abstract: In this paper, a safe and learning-based control framework for model predictive control (MPC) is proposed to optimize nonlinear systems with a non-differentiable objective function under uncertain environmental disturbances. The control framework integrates a learning-based MPC with an auxiliary controller in a way of minimal intervention. The learning-based MPC augments the prior nominal model with incremental Gaussian Processes to learn the uncertain disturbances. The cross-entropy method (CEM) is utilized as the sampling-based optimizer for the MPC with a non-differentiable objective function. A minimal intervention controller is devised with a control Lyapunov function and a control barrier function to guide the sampling process and endow the system with high probabilistic safety. The proposed algorithm shows a safe and adaptive control performance on a simulated quadrotor in the tasks of trajectory tracking and obstacle avoidance under uncertain wind disturbances.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+# # Summary. An optional shortened abstract.
+summary: A safe and learning-based control framework for model predictive control is proposed to optimize nonlinear systems with a non-differentiable objective function under uncertain environmental disturbances. The control framework integrates a learning-based MPC with an auxiliary controller in a way of minimal intervention.
 tags:
 - Source Themes
 featured: true

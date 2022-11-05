@@ -10,6 +10,8 @@ weight = 60  # Order that this section will appear.
 title = "Recent Posts"
 subtitle = "MY FANS DON'T FEEL LIKE I HOLD ANYTHING BACK FROM THEM"
 
+
+
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "post"

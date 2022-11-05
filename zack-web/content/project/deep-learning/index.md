@@ -1,6 +1,6 @@
 ---
 title: Safe Learning
-summary: Designed efficient incremental Gaussian Processes accounting for airflow uncertainties. The wind disturbance caused by the external environment is estimated to improve flight safety and control stability in cluttered environments. Following that, the estimated wind disturbance is used to compensate for the associated control error.
+summary: Designed efficient incremental Gaussian Processes accounting for [airflow uncertainties](ttps://youtu.be/KJyqZyzD4gc). The wind disturbance caused by the external environment is estimated to improve flight safety and control stability in cluttered environments. Following that, the estimated wind disturbance is used to compensate for the associated control error.
 tags:
 - learning
 date: "2020-11-27T00:00:00Z"

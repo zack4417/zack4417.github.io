@@ -25,12 +25,12 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE Robotics and Automation Letters*
-publication_short: In *IEEE RAL*
+publication_short: In *IEEE RAL (Presentation at IEEE ICRA 2021)* 
 
 abstract: Accurate path following is challenging for autonomous robots operating in uncertain environments. Adaptive and predictive control strategies are crucial for a nonlinear robotic system to achieve high-performance path following control. In this letter, we propose a novel learning-based predictive control scheme that couples a high-level model predictive path following controller (MPFC) with a low-level learning-based feedback linearization controller (LB-FBLC) for nonlinear systems under uncertain disturbances. The low-level LB-FBLC utilizes Gaussian Processes to learn the uncertain environmental disturbances online and tracks the reference state accurately with a probabilistic stability guarantee. Meanwhile, the high-level MPFC exploits the linearized system model augmented with a virtual linear path dynamics model to optimize the evolution of path reference targets, and provides the reference states and controls for the low-level LB-FBLC. Simulation results illustrate the effectiveness of the proposed control strategy on a quadrotor path following task under unknown wind disturbances.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: A learning-based MPFC control paradigm for nonlinear systems under uncertain disturbances, coupling a high-level model predictive path following controller for proactivity with a low-level learning-based feedback linearization controller for adaptivity. Following that, nonlinear systems can rapidly rejoin their reference trajectory after sudden wind disturbances with stability guarantees.
 
 tags:
 - Source Themes

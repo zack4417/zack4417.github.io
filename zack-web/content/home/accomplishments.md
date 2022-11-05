@@ -19,43 +19,23 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = ""
+  organization_url = ""
+  title = "Pattern Recognition and Machine Learning"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = ""
+  date_start = "2019-02-12"
+  date_end = "2019-07-01"
+  description = "Fundamental concepts, theories, and algorithms for pattern recognition and machine learning,which are used in computer vision, speech recognition, data mining, statistics, information retrieval, and bioinformatics.Topics include: Bayesian decision theory, parametric and non-parametric learning, data clustering, component analysis,boosting techniques, support vector machine, and deep learning with neural networks."
+   
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "Risk Aware and Robust Nonlinear Planning"
+  url = "https://rarnop.mit.edu/risk-aware-and-robust-nonlinear-planning"
+  certificate_url = ""
+  date_start = "2022-07-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-
-[[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
-  
-[[item]]
-  organization = "RDX"
-  organization_url = "https://www.rdx.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  description = "Advanced Probabilistic and Robust Optimization-Based Algorithms for Control and Safety Verification of Nonlinear Uncertain Autonomous Systems"
 
 +++

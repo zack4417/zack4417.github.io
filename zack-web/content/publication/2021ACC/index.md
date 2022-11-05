@@ -30,8 +30,7 @@ publication_short: In *ACC*
 abstract: Enforcing safety on precise trajectory tracking is critical for aerial robotics subject to wind disturbances. In this paper, we present a learning-based safety-preserving cascaded quadratic programming control (SPQC) for safe trajectory tracking under wind disturbances. The SPQC controller consists of a position-level controller and an attitude-level controller. Gaussian Processes (GPs) are utilized to estimate the uncertainties caused by wind disturbances, and then a nominal Lyapunov-based cascaded quadratic program (QP) controller is designed to track the reference trajectory. To avoid unexpected obstacles when tracking, safety constraints represented by control barrier functions (CBFs) are enforced on each nominal QP controller in a way of minimal modification. The performance of the proposed SPQC controller is illustrated through numerical validations of (a) trajectory tracking under different wind disturbances, and (b) trajectory tracking in a cluttered environment with a dense time-varying obstacle field under wind disturbances.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+summary: Enforcing safety on precise trajectory tracking is critical for aerial robotics subject to wind disturbances. In this paper, we present a learning-based safety-preserving cascaded quadratic programming control for safe trajectory tracking under wind disturbances. 
 tags:
 - Source Themes
 featured: true
