@@ -31,6 +31,76 @@
     </item>
     
     <item>
+      <title>Safe Learning-Based Feedback Linearization Tracking Control for Nonlinear System with Event-Triggered Model Update</title>
+      <link>https://zack4417.github.io/publication/2022ral/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/publication/2022ral/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>April 2022: New journal article of the International Federation of Automatic Control (IFAC).</title>
+      <link>https://zack4417.github.io/post/eaai_pub/</link>
+      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/post/eaai_pub/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;The control framework integrates a learning-based MPC with an auxiliary controller in a way of minimal intervention!&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Safe learning-based gradient-free model predictive control based on cross-entropy method</title>
+      <link>https://zack4417.github.io/publication/2022eaai/</link>
+      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/publication/2022eaai/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Safe learning-based tracking control for quadrotors under wind disturbances</title>
+      <link>https://zack4417.github.io/publication/2021acc/</link>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/publication/2021acc/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning-Based Predictive Path Following Control for Nonlinear Systems Under Uncertain Disturbances</title>
+      <link>https://zack4417.github.io/publication/2021ral/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/publication/2021ral/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning-Based Safety-Stability-Driven Control for Safety-Critical Systems under Model Uncertainties</title>
+      <link>https://zack4417.github.io/publication/wcsp2020/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/publication/wcsp2020/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Safety-critical Agricultural Drone</title>
       <link>https://zack4417.github.io/project/aerial-robotics/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>

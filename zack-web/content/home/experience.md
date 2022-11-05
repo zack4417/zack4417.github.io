@@ -26,13 +26,13 @@ date_format = "Jan 2006"
   date_end = "2022-07-18"
   description = """ Develop algorithms to bring drones, robots, autopilot, artificial intelligence, and Internet-of-things into the world of agricultural production.
   
-  Create a smart agriculture ecosystem that leads us into the era of Agriculture 4.0 characterized by automation, precision, and efficiency to provide the world with sufficient, diversified, and safe food.
+  **Create a smart agriculture ecosystem that leads us into the era of Agriculture 4.0** characterized by automation, precision, and efficiency to provide the world with sufficient, diversified, and safe food.
 
   Responsibilities include:
   
   * Flight data analysis
   * Developing visualization environment for mapping and planning algorithms
-  * Developing state-of-the-art motion control and trajectory optimization software and integrating software into test vehicles
+  * Developing state-of-the-art motion control and trajectory optimization software and integrating software into [test vehicles](https://www.xa.com/en/plant-protection-uas)
   * Creating highly reliable, maintainable, and testable code (modern C++) by applying best-practice software engineering methods, including code reviews, design guidelines, refactoring, unit and regression testing
   * Contributing to agricultural production projects, including requirement engineering, validation, and verification
   * writing patents and engaging with the scientific community
