@@ -1,5 +1,5 @@
 ---
-title: 'April 2021: New journal article of IEEE Robotics and Automation Letters.'
+title: 'April 2021: New journal article of the IEEE Robotics and Automation Letters.'
 subtitle: 'Learning-Based Predictive Path Following Control for Nonlinear Systems Under Uncertain Disturbances'
 summary: Time reallocation for trajectory replanning.
 authors:

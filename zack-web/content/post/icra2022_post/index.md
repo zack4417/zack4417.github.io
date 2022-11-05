@@ -1,5 +1,5 @@
 ---
-title: 'April 2022: New journal article of IEEE Robotics and Automation Letters.'
+title: 'April 2022: New journal article of the IEEE Robotics and Automation Letters.'
 subtitle: 'Safe Learning-Based Feedback Linearization Tracking Control for Nonlinear System with Event-Triggered Model Update'
 summary: We propose a learning-based tracking control scheme based on a feedback linearization controller and Gaussian Processes.
 authors:
