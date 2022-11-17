@@ -62,7 +62,7 @@
       <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://zack4417.github.io/post/acc_pub/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Present a learning-based safety-preserving cascaded quadratic programming control for safe trajectory tracking under wind disturbances!&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Present a learning-based safety-preserving cascaded quadratic programming control policy for safe trajectory tracking under wind disturbances!&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -120,6 +120,16 @@ rejoin their reference trajectory after sudden wind disturbances with stability 
       
       <guid>https://zack4417.github.io/project/deep-learning/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>October 2020: New article of the National Postdoctoral Academic Forum on “Internet of Things and Wireless Communication Technology,” China.</title>
+      <link>https://zack4417.github.io/post/national_postdoctoral_academic_forum/</link>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/post/national_postdoctoral_academic_forum/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Present a learning-based safety-preserving control policy for autonomous vehicles under model uncertainties in a mixed traffic flow!&lt;/strong&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
