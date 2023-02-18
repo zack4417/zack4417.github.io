@@ -79,7 +79,7 @@ user_groups:
 ---
 
 I am a PHD student in the [Thrust of Robotics and Autonomous Systems (ROAS)](https://hkust-gz.edu.cn/academics/four-hubs/systems-hub/robotics-and-autonomous-systems) under the [Systems Hub](https://hkust-gz.edu.cn/academics/four-hubs/systems-hub)
- at [The Hong Kong University of Science and Technology (Guangzhou Campus)](https://fytgs.hkust.edu.hk/). Before joining Ma Lab, I worked as a senior robotics engineer at [XAG](https://www.xa.com/en). The associated trajectory replanning algorithm and safe backup policy have been used in over 50 countries and regions.
+ at [The Hong Kong University of Science and Technology (Guangzhou Campus)](https://fytgs.hkust.edu.hk/). Before that, I worked as a senior robotics engineer at [XAG](https://www.xa.com/en). The associated trajectory replanning algorithm and safe backup policy have been used in over 50 countries and regions.
 
 My research interests include Autonomous Driving, Unmanned Aerial Vehicles, Multi-agent Systems, Motion Planning and Safe Learning-based Control.
  

@@ -1,7 +1,7 @@
 ---
 title: 'May 2021: New conference article of the American Control Conference.'
 subtitle: 'Safe learning-based tracking control for quadrotors under wind disturbances'
-summary: A learning-based safety-preserving cascaded quadratic programming control for safe trajectory tracking under wind disturbances. 
+summary: A learning-based safety-preserving cascaded quadratic programming control policy for safe trajectory tracking under wind disturbances. 
 authors:
 - Lei Zheng
 - Rui Yang
@@ -37,4 +37,4 @@ gallery_item:
   image:
 ---
 
-**Present a learning-based safety-preserving cascaded quadratic programming control for safe trajectory tracking under wind disturbances!**
+**Present a learning-based safety-preserving cascaded quadratic programming control policy for safe trajectory tracking under wind disturbances!**
