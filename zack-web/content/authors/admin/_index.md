@@ -55,7 +55,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  # link: https://twitter.com/GeorgeCushen
+  link: https://www.zhihu.com/people/zheng-lei-32-67-22
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=_ipgwREAAAAJ&hl=zh-TW&oi=sra
