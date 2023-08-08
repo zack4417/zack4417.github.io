@@ -56,7 +56,9 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "lzheng135@hkust-gz.edu.cn"
 # phone = "888 888 88 88"
-address = "1 Duxue Road, Nansha, Guangzhou, China"
+# address = "1 Duxue Road, Nansha, Guangzhou, China"
+address = "The Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong"
+
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = """Monday 10:00 to 13:00<br>
