@@ -93,12 +93,13 @@ contact_links = [
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 1
-map_api_key = "AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-latitude = "37.4275"
-longitude = "-122.1697"
+map = 2
+map_api_key = "AIzaSyBETPBdgmR8JYkiWYmghnV8q4bAiHznnsg"
+latitude = "22.3375"
+longitude = "114.263"
+# latitude = "22° 19' 59.9988"
+# longitude = "114° 15' 46.3212"
 zoom = 15
-
 ############################
 ## Plugins                ##
 ############################
