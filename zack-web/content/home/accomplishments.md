@@ -1,41 +1,67 @@
-+++
-# Accomplishments widget.
-widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
+<!-- +++
+# A Recent Publications section created with the Pages widget.
+# This section displays recent blog posts from `content/publication/`.
+
+widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
-subtitle = "PREVIOUS ASSOCIATIONS THAT HELPED TO GATHER EXPERIENCE"
+title = "News"
+subtitle = ""
 
-# Date format
-#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+[content]
+  # Page type to display. E.g. post, talk, or publication.
+  page_type = ""
+  
+  # Choose how much pages you would like to display (0 = all pages)
+  count = 10
+  
+  # Choose how many pages you would like to offset by
+  offset = 0
 
-# Accomplishments.
-#   Add/remove as many `[[item]]` blocks below as you like.
-#   `title`, `organization` and `date_start` are the required parameters.
-#   Leave other parameters empty if not required.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
+  # Page order. Descending (desc) or ascending (asc) date.
+  order = "desc"
 
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "Pattern Recognition and Machine Learning"
-  url = ""
-  certificate_url = ""
-  date_start = "2019-02-12"
-  date_end = "2019-07-01"
-  description = "Fundamental concepts, theories, and algorithms for pattern recognition and machine learning,which are used in computer vision, speech recognition, data mining, statistics, information retrieval, and bioinformatics.Topics include: Bayesian decision theory, parametric and non-parametric learning, data clustering, component analysis,boosting techniques, support vector machine, and deep learning with neural networks."
-   
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "Risk Aware and Robust Nonlinear Planning"
-  url = "https://rarnop.mit.edu/risk-aware-and-robust-nonlinear-planning"
-  certificate_url = ""
-  date_start = "2022-07-01"
-  date_end = ""
-  description = "Advanced Probabilistic and Robust Optimization-Based Algorithms for Control and Safety Verification of Nonlinear Uncertain Autonomous Systems"
+  # Filter posts by a taxonomy term.
+  [content.filters]
+    tag = ""
+    category = ""
+    publication_type = ""
+    exclude_featured = false
+  
+[design]
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view = 1
+  
+[design.background]
+  # Apply a background color, gradient, or image.
+  #   Uncomment (by removing `#`) an option to apply it.
+  #   Choose a light or dark text color by setting `text_color_light`.
+  #   Any HTML color name or Hex value is valid.
+    
+  # Background color.
+  # color = "navy"
+  
+  # Background gradient.
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
+  
+  # Background image.
+  # image = "background.jpg"  # Name of image in `static/img/`.
+  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
-+++
+  # Text color (true=light or false=dark).
+  # text_color_light = true  
+  
+[advanced]
+ # Custom CSS. 
+ css_style = ""
+ 
+ # CSS class.
+ css_class = ""
++++ -->

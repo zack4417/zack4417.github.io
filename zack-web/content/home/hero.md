@@ -43,6 +43,6 @@ hero_media = ""
   label = "Contact me"
 
 +++
-## My name is **Lei Zheng** and I'm a **Phd Student** specializing in **Robotics**
+## My name is **Lei Zheng** and I'm a **Phd Candidate** specializing in **Robotics**
 
 <!-- Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC. -->
