@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>academia on Lei Zheng</title>
+    <link>https://zack4417.github.io/tags/academia/</link>
+    <description>Recent content in academia on Lei Zheng</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://zack4417.github.io/tags/academia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>March 2024: New conference article of the European Control Conference.</title>
+      <link>https://zack4417.github.io/post/ecc_pub/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/post/ecc_pub/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abrupt maneuvers by surrounding vehicles (SVs) can typically lead to safety concerns and affect the task efficiency of the ego vehicle (EV), especially with model uncertainties stemming from environmental disturbances. This paper presents a real-time fail-operational controller that ensures the asymptotic convergence of an uncertain EV to a safe state, while preserving task efficiency in dynamic environments. An incremental Bayesian learning approach is developed to facilitate online learning and inference of changing environmental disturbances. Leveraging disturbance quantification and constraint transformation, we develop a stochastic fail-operational barrier based on the control barrier function. With this development, the uncertain EV is able to converge asymptotically from an unsafe state to a defined safe state with probabilistic stability. Subsequently, the stochastic fail-operational barrier is integrated into an efficient fail-operational controller based on quadratic programming. This controller is tailored for the EV operating under control constraints in the presence of environmental disturbances, with both safety and efficiency objectives taken into consideration.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Real-Time Parallel Trajectory Optimization with Spatiotemporal Safety Constraints for Autonomous Driving in Congested Traffic</title>
+      <link>https://zack4417.github.io/publication/2023itsc/</link>
+      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/publication/2023itsc/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>September 2023: Two conference articles of the IEEE International Conference on Intelligent Transportation Systems.</title>
+      <link>https://zack4417.github.io/post/itsc2023_post/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/post/itsc2023_post/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;We presented a parallel trajectory optimization method for fast replanning for the EV  to achieve high travel efficiency in dense and congested traffic. Our approach efficiently generates feasible and safe candidate trajectories, while maintaining high computational efficiency based on the multiple-shooting and multi-threading techniques!&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>April 2022: New journal article of the IEEE Robotics and Automation Letters.</title>
+      <link>https://zack4417.github.io/post/icra2022_post/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/post/icra2022_post/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;We propose a learning-based tracking control scheme based on a feedback linearization controller in which uncertain disturbances are approximated online using Gaussian Processes!&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Safe Learning-Based Feedback Linearization Tracking Control for Nonlinear System with Event-Triggered Model Update</title>
+      <link>https://zack4417.github.io/publication/2022ral/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/publication/2022ral/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>April 2022: New journal article of the International Federation of Automatic Control (IFAC).</title>
+      <link>https://zack4417.github.io/post/eaai_pub/</link>
+      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/post/eaai_pub/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;The control framework integrates a learning-based MPC with an auxiliary controller in a way of minimal intervention!&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Safe learning-based gradient-free model predictive control based on cross-entropy method</title>
+      <link>https://zack4417.github.io/publication/2022eaai/</link>
+      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/publication/2022eaai/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>May 2021: New conference article of the American Control Conference.</title>
+      <link>https://zack4417.github.io/post/acc_pub/</link>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/post/acc_pub/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Present a learning-based safety-preserving cascaded quadratic programming control policy for safe trajectory tracking under wind disturbances!&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Safe learning-based tracking control for quadrotors under wind disturbances</title>
+      <link>https://zack4417.github.io/publication/2021acc/</link>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/publication/2021acc/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>April 2021: New journal article of the IEEE Robotics and Automation Letters.</title>
+      <link>https://zack4417.github.io/post/icra2021_post/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/post/icra2021_post/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Propose a learning-based MPFC control paradigm for nonlinear systems under uncertain disturbances, coupling a high-level model predictive path following controller for proactivity with a low-level learning-based feedback linearization controller for adaptivity. Following that, nonlinear systems can rapidly
+rejoin their reference trajectory after sudden wind disturbances with stability guarantees!&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning-Based Predictive Path Following Control for Nonlinear Systems Under Uncertain Disturbances</title>
+      <link>https://zack4417.github.io/publication/2021ral/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/publication/2021ral/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning-Based Safety-Stability-Driven Control for Safety-Critical Systems under Model Uncertainties</title>
+      <link>https://zack4417.github.io/publication/wcsp2020/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/publication/wcsp2020/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Safe Learning</title>
+      <link>https://zack4417.github.io/project/deep-learning/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/project/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>October 2020: New article of the National Postdoctoral Academic Forum on “Internet of Things and Wireless Communication Technology,” China.</title>
+      <link>https://zack4417.github.io/post/national_postdoctoral_academic_forum/</link>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/post/national_postdoctoral_academic_forum/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Present a learning-based safety-preserving control policy for autonomous vehicles under model uncertainties in a mixed traffic flow!&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
