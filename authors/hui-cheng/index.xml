@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hui Cheng on Lei Zheng</title>
-    <link>https://zackzack4417.github.io/authors/hui-cheng/</link>
+    <link>https://zack4417.github.io/authors/hui-cheng/</link>
     <description>Recent content in Hui Cheng on Lei Zheng</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://zackzack4417.github.io/authors/hui-cheng/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://zack4417.github.io/authors/hui-cheng/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>April 2021: New journal article of the IEEE Robotics and Automation Letters.</title>
-      <link>https://zackzack4417.github.io/post/icra2021_post/</link>
+      <link>https://zack4417.github.io/post/icra2021_post/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://zackzack4417.github.io/post/icra2021_post/</guid>
+      <guid>https://zack4417.github.io/post/icra2021_post/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Propose a learning-based MPFC control paradigm for nonlinear systems under uncertain disturbances, coupling a high-level model predictive path following controller for proactivity with a low-level learning-based feedback linearization controller for adaptivity. Following that, nonlinear systems can rapidly
 rejoin their reference trajectory after sudden wind disturbances with stability guarantees!&lt;/strong&gt;&lt;/p&gt;
 </description>
@@ -25,10 +25,10 @@ rejoin their reference trajectory after sudden wind disturbances with stability 
     
     <item>
       <title>Learning-Based Predictive Path Following Control for Nonlinear Systems Under Uncertain Disturbances</title>
-      <link>https://zackzack4417.github.io/publication/2021ral/</link>
+      <link>https://zack4417.github.io/publication/2021ral/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://zackzack4417.github.io/publication/2021ral/</guid>
+      <guid>https://zack4417.github.io/publication/2021ral/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Haichao Liu on Lei Zheng</title>
-    <link>https://zackzack4417.github.io/authors/haichao-liu/</link>
+    <link>https://zack4417.github.io/authors/haichao-liu/</link>
     <description>Recent content in Haichao Liu on Lei Zheng</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Sun, 24 Sep 2023 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://zackzack4417.github.io/authors/haichao-liu/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://zack4417.github.io/authors/haichao-liu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Real-Time Parallel Trajectory Optimization with Spatiotemporal Safety Constraints for Autonomous Driving in Congested Traffic</title>
-      <link>https://zackzack4417.github.io/publication/2023itsc/</link>
+      <link>https://zack4417.github.io/publication/2023itsc/</link>
       <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://zackzack4417.github.io/publication/2023itsc/</guid>
+      <guid>https://zack4417.github.io/publication/2023itsc/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
@@ -26,10 +26,10 @@
     
     <item>
       <title>September 2023: Two conference articles of the IEEE International Conference on Intelligent Transportation Systems.</title>
-      <link>https://zackzack4417.github.io/post/itsc2023_post/</link>
+      <link>https://zack4417.github.io/post/itsc2023_post/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://zackzack4417.github.io/post/itsc2023_post/</guid>
+      <guid>https://zack4417.github.io/post/itsc2023_post/</guid>
       <description>&lt;p&gt;&lt;strong&gt;We presented a parallel trajectory optimization method for fast replanning for the EV  to achieve high travel efficiency in dense and congested traffic. Our approach efficiently generates feasible and safe candidate trajectories, while maintaining high computational efficiency based on the multiple-shooting and multi-threading techniques!&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
