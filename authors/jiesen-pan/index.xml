@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jiesen Pan on Lei Zheng</title>
-    <link>https://zack4417.github.io/authors/jiesen-pan/</link>
+    <link>https://zackzack4417.github.io/authors/jiesen-pan/</link>
     <description>Recent content in Jiesen Pan on Lei Zheng</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Fri, 04 Feb 2022 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://zack4417.github.io/authors/jiesen-pan/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://zackzack4417.github.io/authors/jiesen-pan/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>April 2022: New journal article of the International Federation of Automatic Control (IFAC).</title>
-      <link>https://zack4417.github.io/post/eaai_pub/</link>
+      <link>https://zackzack4417.github.io/post/eaai_pub/</link>
       <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://zack4417.github.io/post/eaai_pub/</guid>
+      <guid>https://zackzack4417.github.io/post/eaai_pub/</guid>
       <description>&lt;p&gt;&lt;strong&gt;The control framework integrates a learning-based MPC with an auxiliary controller in a way of minimal intervention!&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Safe learning-based gradient-free model predictive control based on cross-entropy method</title>
-      <link>https://zack4417.github.io/publication/2022eaai/</link>
+      <link>https://zackzack4417.github.io/publication/2022eaai/</link>
       <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://zack4417.github.io/publication/2022eaai/</guid>
+      <guid>https://zackzack4417.github.io/publication/2022eaai/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
@@ -36,20 +36,20 @@
     
     <item>
       <title>May 2021: New conference article of the American Control Conference.</title>
-      <link>https://zack4417.github.io/post/acc_pub/</link>
+      <link>https://zackzack4417.github.io/post/acc_pub/</link>
       <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://zack4417.github.io/post/acc_pub/</guid>
+      <guid>https://zackzack4417.github.io/post/acc_pub/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Present a learning-based safety-preserving cascaded quadratic programming control policy for safe trajectory tracking under wind disturbances!&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Safe learning-based tracking control for quadrotors under wind disturbances</title>
-      <link>https://zack4417.github.io/publication/2021acc/</link>
+      <link>https://zackzack4417.github.io/publication/2021acc/</link>
       <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://zack4417.github.io/publication/2021acc/</guid>
+      <guid>https://zackzack4417.github.io/publication/2021acc/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
@@ -58,10 +58,10 @@
     
     <item>
       <title>April 2021: New journal article of the IEEE Robotics and Automation Letters.</title>
-      <link>https://zack4417.github.io/post/icra2021_post/</link>
+      <link>https://zackzack4417.github.io/post/icra2021_post/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://zack4417.github.io/post/icra2021_post/</guid>
+      <guid>https://zackzack4417.github.io/post/icra2021_post/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Propose a learning-based MPFC control paradigm for nonlinear systems under uncertain disturbances, coupling a high-level model predictive path following controller for proactivity with a low-level learning-based feedback linearization controller for adaptivity. Following that, nonlinear systems can rapidly
 rejoin their reference trajectory after sudden wind disturbances with stability guarantees!&lt;/strong&gt;&lt;/p&gt;
 </description>
@@ -69,10 +69,10 @@ rejoin their reference trajectory after sudden wind disturbances with stability 
     
     <item>
       <title>Learning-Based Predictive Path Following Control for Nonlinear Systems Under Uncertain Disturbances</title>
-      <link>https://zack4417.github.io/publication/2021ral/</link>
+      <link>https://zackzack4417.github.io/publication/2021ral/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://zack4417.github.io/publication/2021ral/</guid>
+      <guid>https://zackzack4417.github.io/publication/2021ral/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
@@ -81,10 +81,10 @@ rejoin their reference trajectory after sudden wind disturbances with stability 
     
     <item>
       <title>Learning-Based Safety-Stability-Driven Control for Safety-Critical Systems under Model Uncertainties</title>
-      <link>https://zack4417.github.io/publication/wcsp2020/</link>
+      <link>https://zackzack4417.github.io/publication/wcsp2020/</link>
       <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://zack4417.github.io/publication/wcsp2020/</guid>
+      <guid>https://zackzack4417.github.io/publication/wcsp2020/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
