@@ -7,10 +7,21 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Fri, 08 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 May 2025 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://zack4417.github.io/authors/lei-zheng/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>May 2025: My PHD talk proposal has been selected as the sole junior researcher talk for the ICRA 2025 Workshop Robot Safety</title>
+      <link>https://zack4417.github.io/post/icra2025_post/</link>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/post/icra2025_post/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Enforcing safety while preventing overly conservative behaviors is essential for autonomous vehicles (AVs) to achieve high task performance. To achieve this goal, AVs must generate safe, feasible, and comfortable trajectories during real-time replanning iterations. Despite significant advancements, addressing potential safety hazards remains a critical challenge under uncertainties (e.g., varying terrain and sensor occlusions), particularly for safety-critical high-speed autonomous driving. Additionally, these uncertainties may lead to abrupt maneuvers (e.g., sudden lane changes or decelerations) to address unforeseen contingencies, thus disrupting driving consistency and compromising task efficiency. Moreover, real-time replanning in such environments involves addressing intricate constraints and objectives simultaneously for multi-objective optimization tradeoff. These challenges are further exacerbated in dense and interaction-heavy traffic environments, making real-time optimization computationally intensive. In light of those real-world problems, my research vision is to answer: How to safely deploy AVs that avoid over-conservative behaviors and maintain driving consistency in real time under uncertainties?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;One key underlying factor to the safety concern stems from uncertainties in both internal system models (e.g., unknown parameters) and external environments (e.g., unknown intentions of dynamic obstacles). These uncertainties become critical in contingency scenarios, where potential risks cannot be predicted with certainty. My past research addresses this problem from two perspectives: 1) Developing consensus spatiotemporal safety barrier within a scenario tree structure to address potential contingencies when historical obstacle data is unavailable (e.g., occluded phantom vehicles). 2) Anticipating the influence of uncertainties on the system state through fast online Bayesian learning, and leveraging control theory to design asymptotically stable safety barrier certificates. Furthermore, my work enables fast optimization while balancing multiple constraints, such as safety and driving stability, in high-dimensional, nonlinear planning and control problems under dense obstacle environments. To achieve this goal, we explore constraint transcription and decompose the nonlinear optimization problem using parallel optimization methods, including multithreading techniques, multiple shooting, and the alternating direction method of multipliers (ADMM). These approaches streamline the optimization process while ensuring compliance with safety constraints, as validated through both theoretical analysis and real-world experiments.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Barrier-Enhanced Parallel Homotopic Trajectory Optimization for Safety-Critical Autonomous Driving</title>
