@@ -7,10 +7,22 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 05 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jul 2025 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://zack4417.github.io/authors/lei-zheng/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Safe and Real-Time Consistent Planning for Autonomous Vehicles in Partially Observed Environments via Parallel Consensus Optimization</title>
+      <link>https://zack4417.github.io/publication/2025tits/</link>
+      <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/publication/2025tits/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>May 2025: My PHD talk proposal has been selected as the sole junior researcher talk for the ICRA 2025 Workshop Robot Safety</title>
