@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>robotics on Lei Zheng</title>
+    <link>https://zack4417.github.io/tags/robotics/</link>
+    <description>Recent content in robotics on Lei Zheng</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Thu, 24 Jul 2025 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://zack4417.github.io/tags/robotics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Safe and Real-Time Consistent Planning for Autonomous Vehicles in Partially Observed Environments via Parallel Consensus Optimization</title>
+      <link>https://zack4417.github.io/publication/2025tits/</link>
+      <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/publication/2025tits/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Barrier-Enhanced Parallel Homotopic Trajectory Optimization for Safety-Critical Autonomous Driving</title>
+      <link>https://zack4417.github.io/publication/2024tits/</link>
+      <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/publication/2024tits/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Occlusion-Aware Contingency Safety-Critical Planning for Autonomous Vehicles</title>
+      <link>https://zack4417.github.io/project/occ_contingency/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/project/occ_contingency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safe and Real-Time Consistent Planning for Autonomous Vehicles in Partially Observed Environments via Parallel Consensus Optimization</title>
+      <link>https://zack4417.github.io/project/cpto/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/project/cpto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatiotemporal Receding Horizon Control with Proactive Interaction Towards Autonomous Driving in Dense Traffic</title>
+      <link>https://zack4417.github.io/publication/2024tiv/</link>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/publication/2024tiv/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Barrier-Enhanced Homotopic Parallel Trajectory Optimization for Safety-Critical Autonomous Driving</title>
+      <link>https://zack4417.github.io/project/bphto/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/project/bphto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-Time Parallel Trajectory Optimization with Spatiotemporal Safety Constraints for Autonomous Driving in Congested Traffic</title>
+      <link>https://zack4417.github.io/publication/2023itsc/</link>
+      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/publication/2023itsc/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multi-Modal Spatiotemporal Receding Horizon Planning for Autonomous Driving</title>
+      <link>https://zack4417.github.io/project/spatiotemporal-planning/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/project/spatiotemporal-planning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-speed flight</title>
+      <link>https://zack4417.github.io/project/high-speed-flight/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/project/high-speed-flight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multi-agent</title>
+      <link>https://zack4417.github.io/project/robotics-test/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/project/robotics-test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safe Learning-Based Feedback Linearization Tracking Control for Nonlinear System with Event-Triggered Model Update</title>
+      <link>https://zack4417.github.io/publication/2022ral/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/publication/2022ral/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>April 2022: New journal article of the International Federation of Automatic Control (IFAC).</title>
+      <link>https://zack4417.github.io/post/eaai_pub/</link>
+      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/post/eaai_pub/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;The control framework integrates a learning-based MPC with an auxiliary controller in a way of minimal intervention!&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Safe learning-based gradient-free model predictive control based on cross-entropy method</title>
+      <link>https://zack4417.github.io/publication/2022eaai/</link>
+      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/publication/2022eaai/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Safe learning-based tracking control for quadrotors under wind disturbances</title>
+      <link>https://zack4417.github.io/publication/2021acc/</link>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/publication/2021acc/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning-Based Predictive Path Following Control for Nonlinear Systems Under Uncertain Disturbances</title>
+      <link>https://zack4417.github.io/publication/2021ral/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/publication/2021ral/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning-Based Safety-Stability-Driven Control for Safety-Critical Systems under Model Uncertainties</title>
+      <link>https://zack4417.github.io/publication/wcsp2020/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/publication/wcsp2020/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Safety-critical Agricultural Drone</title>
+      <link>https://zack4417.github.io/project/aerial-robotics/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/project/aerial-robotics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jun Ma on Lei Zheng</title>
+    <link>https://zack4417.github.io/authors/jun-ma/</link>
+    <description>Recent content in Jun Ma on Lei Zheng</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Thu, 24 Jul 2025 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://zack4417.github.io/authors/jun-ma/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Safe and Real-Time Consistent Planning for Autonomous Vehicles in Partially Observed Environments via Parallel Consensus Optimization</title>
+      <link>https://zack4417.github.io/publication/2025tits/</link>
+      <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/publication/2025tits/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Barrier-Enhanced Parallel Homotopic Trajectory Optimization for Safety-Critical Autonomous Driving</title>
+      <link>https://zack4417.github.io/publication/2024tits/</link>
+      <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/publication/2024tits/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spatiotemporal Receding Horizon Control with Proactive Interaction Towards Autonomous Driving in Dense Traffic</title>
+      <link>https://zack4417.github.io/publication/2024tiv/</link>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/publication/2024tiv/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>March 2024: New conference article of the European Control Conference.</title>
+      <link>https://zack4417.github.io/post/ecc_pub/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/post/ecc_pub/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abrupt maneuvers by surrounding vehicles (SVs) can typically lead to safety concerns and affect the task efficiency of the ego vehicle (EV), especially with model uncertainties stemming from environmental disturbances. This paper presents a real-time fail-operational controller that ensures the asymptotic convergence of an uncertain EV to a safe state, while preserving task efficiency in dynamic environments. An incremental Bayesian learning approach is developed to facilitate online learning and inference of changing environmental disturbances. Leveraging disturbance quantification and constraint transformation, we develop a stochastic fail-operational barrier based on the control barrier function. With this development, the uncertain EV is able to converge asymptotically from an unsafe state to a defined safe state with probabilistic stability. Subsequently, the stochastic fail-operational barrier is integrated into an efficient fail-operational controller based on quadratic programming. This controller is tailored for the EV operating under control constraints in the presence of environmental disturbances, with both safety and efficiency objectives taken into consideration.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Real-Time Parallel Trajectory Optimization with Spatiotemporal Safety Constraints for Autonomous Driving in Congested Traffic</title>
+      <link>https://zack4417.github.io/publication/2023itsc/</link>
+      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/publication/2023itsc/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>September 2023: Two conference articles of the IEEE International Conference on Intelligent Transportation Systems.</title>
+      <link>https://zack4417.github.io/post/itsc2023_post/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/post/itsc2023_post/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;We presented a parallel trajectory optimization method for fast replanning for the EV  to achieve high travel efficiency in dense and congested traffic. Our approach efficiently generates feasible and safe candidate trajectories, while maintaining high computational efficiency based on the multiple-shooting and multi-threading techniques!&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

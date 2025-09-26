@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>autonomous driving on Lei Zheng</title>
+    <link>https://zack4417.github.io/tags/autonomous-driving/</link>
+    <description>Recent content in autonomous driving on Lei Zheng</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Tue, 08 Oct 2024 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://zack4417.github.io/tags/autonomous-driving/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Occlusion-Aware Contingency Safety-Critical Planning for Autonomous Vehicles</title>
+      <link>https://zack4417.github.io/project/occ_contingency/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/project/occ_contingency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safe and Real-Time Consistent Planning for Autonomous Vehicles in Partially Observed Environments via Parallel Consensus Optimization</title>
+      <link>https://zack4417.github.io/project/cpto/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/project/cpto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Barrier-Enhanced Homotopic Parallel Trajectory Optimization for Safety-Critical Autonomous Driving</title>
+      <link>https://zack4417.github.io/project/bphto/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/project/bphto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Modal Spatiotemporal Receding Horizon Planning for Autonomous Driving</title>
+      <link>https://zack4417.github.io/project/spatiotemporal-planning/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/project/spatiotemporal-planning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning-Based Safety-Stability-Driven Control for Safety-Critical Systems under Model Uncertainties</title>
+      <link>https://zack4417.github.io/publication/wcsp2020/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/publication/wcsp2020/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Connected Cruise Control in Mixed Traffic Flow</title>
+      <link>https://zack4417.github.io/project/autonomous-ccc/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/project/autonomous-ccc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
