@@ -7,10 +7,90 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 24 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://zack4417.github.io/tags/academia/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>June 2026: New conference article of the ICRA</title>
+      <link>https://zack4417.github.io/post/icra2026_post/</link>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/post/icra2026_post/</guid>
+      <description>&lt;p&gt;This paper presents a novel control strategy for mobile robots navigating in environments with occluded obstacles — situations where obstacles are hidden from the robot&amp;rsquo;s field of view but pose potential collision risks.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Challenge:&lt;/strong&gt; Robots relying on onboard sensors cannot detect obstacles behind occlusions, leading to collision risks and abrupt velocity changes that compromise motion stability.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Our Approach:&lt;/strong&gt; We developed an occlusion-aware Consistent Model Predictive Control (CMPC) strategy that:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Models &amp;ldquo;risk regions&amp;rdquo; — potential future locations of occluded obstacles&lt;/li&gt;
+&lt;li&gt;Generates multiple trajectory branches simultaneously, each accounting for different risk scenarios&lt;/li&gt;
+&lt;li&gt;Maintains a shared consensus segment across all trajectories to ensure smooth transitions and motion consistency&lt;/li&gt;
+&lt;li&gt;Uses ADMM (Alternating Direction Method of Multipliers) to decompose the complex optimization into parallel sub-problems for real-time performance&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Key Results:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;38% reduction in lateral velocity variance compared to baseline approaches&lt;/li&gt;
+&lt;li&gt;51.7% lower peak lateral acceleration&lt;/li&gt;
+&lt;li&gt;Real-time performance with ~40ms average solving time&lt;/li&gt;
+&lt;li&gt;Successful validation in both simulation and real-world experiments on an Ackermann-steering robot platform&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The method strikes an effective balance between safety (avoiding collisions with occluded obstacles) and performance (maintaining smooth, consistent motion), enabling robots to navigate confidently in cluttered, partially observable environments.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>March 2026: New journal article of the IEEE Transactions on Control Systems Technology</title>
+      <link>https://zack4417.github.io/post/tcst2026_post/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/post/tcst2026_post/</guid>
+      <description>&lt;p&gt;This paper tackles the fundamental challenge of balancing safety and driving efficiency when autonomous vehicles interact with human-driven vehicles exhibiting uncertain, time-varying behaviors.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Challenge:&lt;/strong&gt; Human drivers have diverse, unpredictable behaviors. Worst-case assumptions lead to overly conservative driving, while ignoring uncertainty risks collisions. Traditional methods struggle to adapt online to evolving uncertainty estimates.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Our Approach:&lt;/strong&gt; We developed a real-time contingency trajectory optimization framework that:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Uses &lt;strong&gt;event-triggered online learning&lt;/strong&gt; to dynamically refine estimates of human driver behavior (control-intent sets)&lt;/li&gt;
+&lt;li&gt;Propagates Forward Reachable Sets (FRS) as ellipsoidal over-approximations of where humans could be&lt;/li&gt;
+&lt;li&gt;Enforces safety through &lt;strong&gt;FRS-based barrier constraints&lt;/strong&gt; that guarantee collision avoidance without relying on accurate trajectory predictions&lt;/li&gt;
+&lt;li&gt;Jointly optimizes a nominal performance trajectory and a safety contingency trajectory via consensus ADMM&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Key Results:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Zero collisions in tested scenarios versus 18-27% collision rates for baselines&lt;/li&gt;
+&lt;li&gt;31% lower peak longitudinal jerk, 18.3% lower lateral jerk than ST-RHC&lt;/li&gt;
+&lt;li&gt;14-20% higher average speed than conservative baselines&lt;/li&gt;
+&lt;li&gt;64.4% reduction in lateral jerk versus uncertainty-aware baseline&lt;/li&gt;
+&lt;li&gt;Real-time performance (34 ms average solve time) validated on 1:10 scale robots with aggressive human driver behaviors&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The framework adapts safety margins automatically based on observed driver behavior — maintaining efficiency with predictable drivers while expanding safety buffers for erratic ones — all while preserving formal safety guarantees.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>January 2026: New journal article of the IEEE Transactions on Cybernetics</title>
+      <link>https://zack4417.github.io/post/t-cyber25_post/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/post/t-cyber25_post/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;This paper addresses a critical challenge for autonomous vehicles navigating occluded intersections — where buildings or other vehicles block the view of potential hazards like phantom vehicles suddenly entering the intersection.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Challenge:&lt;/strong&gt; Traditional planning methods either ignore occluded risks (leading to collisions) or adopt overly conservative behaviors (severely compromising travel efficiency). Real-time replanning in such environments is computationally intensive due to non-convex constraints.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Our Approach:&lt;/strong&gt; We developed an occlusion-aware contingency planning framework that:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Uses reachability analysis to quantify risks from occluded phantom vehicles, generating dynamic velocity boundaries&lt;/li&gt;
+&lt;li&gt;Simultaneously optimizes two trajectories: an &lt;strong&gt;exploration trajectory&lt;/strong&gt; for situational awareness, and a &lt;strong&gt;safety fallback trajectory&lt;/strong&gt; as a safe alternative&lt;/li&gt;
+&lt;li&gt;Shares a common initial segment between both trajectories to ensure smooth transitions&lt;/li&gt;
+&lt;li&gt;Employs consensus ADMM to decompose the complex biconvex optimization into low-dimensional convex subproblems solved in parallel&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Key Results:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;30.2% reduction in intersection traversal time compared to baseline methods&lt;/li&gt;
+&lt;li&gt;Maintains minimum velocity of 1.64 m/s (versus near-zero for baselines)&lt;/li&gt;
+&lt;li&gt;44.8% faster computation than ST-RHC, 90.9% faster than Control-Tree&lt;/li&gt;
+&lt;li&gt;Real-time performance (23.8 ms average solve time) validated on 1:10 scale robotic platform&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The framework enables autonomous vehicles to navigate occluded intersections safely while maintaining travel efficiency, scaling effectively with increasing numbers of surrounding vehicles.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Occlusion-Aware Contingency Safety-Critical Planning for Autonomous Vehicles</title>
@@ -37,7 +117,7 @@
     </item>
     
     <item>
-      <title>May 2025: My PHD talk proposal has been selected as the sole junior researcher talk for the ICRA 2025 Workshop Robot Safety</title>
+      <title>May 2025: My PHD talk proposal has been selected as the only junior researcher talk for the ICRA 2025 Workshop on Robot Safety</title>
       <link>https://zack4417.github.io/post/icra2025_post/</link>
       <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
       
