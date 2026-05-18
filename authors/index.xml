@@ -13,11 +13,20 @@
     
     
     <item>
-      <title>Jun Ma</title>
+      <title></title>
       <link>https://zack4417.github.io/authors/jun-ma/</link>
       <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
       
       <guid>https://zack4417.github.io/authors/jun-ma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zack4417.github.io/authors/michael-yu-wang/</link>
+      <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://zack4417.github.io/authors/michael-yu-wang/</guid>
       <description></description>
     </item>
     
@@ -27,15 +36,6 @@
       <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
       
       <guid>https://zack4417.github.io/authors/lei-zheng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Michael Yu Wang</title>
-      <link>https://zack4417.github.io/authors/michael-yu-wang/</link>
-      <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://zack4417.github.io/authors/michael-yu-wang/</guid>
       <description></description>
     </item>
     
@@ -136,8 +136,9 @@
       
       <guid>https://zack4417.github.io/authors/admin/</guid>
       <description>&lt;p&gt;I am currently a Research Fellow with &lt;a href=&#34;https://cde.nus.edu.sg/ece/staff/armin-lederer/&#34;&gt;Prof. Armin Lederer&lt;/a&gt; in the Department of Electrical and Computer Engineering at the National University of Singapore. My research is dedicated to bridging theoretical advancement with practical application to create  &lt;strong&gt;safe, reliable, and trustworthy autonomous systems&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;I obtained my Ph.D. in &lt;strong&gt;Robotics and Autonomous Systems&lt;/strong&gt; from &lt;a href=&#34;https://fytgs.hkust.edu.hk/&#34;&gt;The Hong Kong University of Science and Technology&lt;/a&gt;. Prior to my doctoral studies, I worked as a &lt;strong&gt;Senior Robotics Engineer&lt;/strong&gt; at &lt;a href=&#34;https://www.xa.com/en&#34;&gt;XAG&lt;/a&gt;, where I spearheaded the development of a &lt;strong&gt;real-time trajectory replanning algorithm&lt;/strong&gt; and a &lt;strong&gt;robust safe backup policy&lt;/strong&gt;. These solutions have been deployed in products operating in over 60 countries and regions.&lt;/p&gt;
+&lt;p&gt;I obtained my Ph.D. in &lt;strong&gt;Robotics and Autonomous Systems&lt;/strong&gt; from &lt;a href=&#34;https://www.hkust.edu.hk/&#34;&gt;The Hong Kong University of Science and Technology&lt;/a&gt;, supervised by &lt;a href=&#34;https://scholar.google.com/citations?user=8VepsVAAAAAJ&amp;amp;hl=zh-CN&#34;&gt;Prof. Jun Ma&lt;/a&gt; and &lt;a href=&#34;https://scholar.google.com/citations?user=Oo7c22wAAAAJ&amp;amp;hl=zh-CN&#34;&gt;Prof. Michael Yu Wang&lt;/a&gt;. Prior to my doctoral studies, I worked as a &lt;strong&gt;Senior Robotics Engineer&lt;/strong&gt; at &lt;a href=&#34;https://www.xa.com/en&#34;&gt;XAG&lt;/a&gt;, where I spearheaded the development of a &lt;strong&gt;real-time trajectory replanning algorithm&lt;/strong&gt; and a &lt;strong&gt;robust safe backup policy&lt;/strong&gt;. These solutions have been deployed in products operating in over 60 countries and regions.&lt;/p&gt;
 &lt;p&gt;To deepen my expertise in fundamental robot safety, I was a &lt;strong&gt;Visiting Scholar&lt;/strong&gt; at the &lt;a href=&#34;https://www.ri.cmu.edu/&#34;&gt;Robotics Institute, Carnegie Mellon University (CMU)&lt;/a&gt;, where I collaborated with &lt;a href=&#34;https://www.ri.cmu.edu/ri-faculty/changliu-liu/&#34;&gt;Professor Changliu Liu&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I serve as an &lt;strong&gt;Associate Editor&lt;/strong&gt; for &lt;a href=&#34;https://ieee-iros.org/&#34;&gt;IROS 2026&lt;/a&gt; and co-organize the workshop &lt;strong&gt;&lt;a href=&#34;https://ieee-iros.org/&#34;&gt;Learning and Formal Methods for Robotics (LAFR)&lt;/a&gt;&lt;/strong&gt; at the same conference (Pittsburgh, PA, Sept 27–Oct 1, 2026).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Research Interests:&lt;/strong&gt; My work lies at the intersection of theory and application:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Robot Safety &amp;amp; Safe Learning-Based Control&lt;/strong&gt;&lt;/li&gt;
