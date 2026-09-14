@@ -97,14 +97,74 @@
   font-size: 0.88rem;
 }
 
-/* Experience timeline */
+/* Experience timeline — tighter, CV-like */
+#experience.home-section {
+  padding-top: 2.75rem;
+  padding-bottom: 2.75rem;
+}
+
+#experience .section-heading h1 {
+  margin-bottom: 0.25rem;
+}
+
+#experience .section-heading p {
+  margin-bottom: 0;
+  color: #607d8b;
+  font-size: 0.95rem;
+}
+
+#experience .row.experience {
+  margin-bottom: 0.15rem;
+}
+
+#experience .col.py-2 {
+  padding-top: 0.45rem !important;
+  padding-bottom: 0.45rem !important;
+}
+
+#experience .card {
+  border-color: rgba(0, 0, 0, 0.06);
+  box-shadow: none;
+}
+
+#experience .card-body {
+  padding: 0.75rem 1rem;
+}
+
 #experience .exp-title {
   font-weight: 600;
+  font-size: 1.05rem;
   color: #263238 !important;
 }
 
 #experience .exp-company {
   font-weight: 500;
+  font-size: 0.98rem;
+}
+
+#experience .exp-meta {
+  font-size: 0.86rem;
+  margin-top: 0.15rem;
+}
+
+#experience .card-text {
+  margin-top: 0.4rem;
+  font-size: 0.9rem;
+  line-height: 1.45;
+  color: #455a64;
+}
+
+#experience .card-text p {
+  margin-bottom: 0.35rem;
+}
+
+#experience .card-text ul {
+  margin: 0.25rem 0 0;
+  padding-left: 1.1rem;
+}
+
+#experience .card-text li {
+  margin-bottom: 0.1rem;
 }
 
 /* Publications citation block */
