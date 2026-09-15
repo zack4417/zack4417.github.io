@@ -494,15 +494,3 @@
   letter-spacing: -0.02em;
 }
 
-/* ClustrMaps visitor widget in Contact */
-.visitors-map {
-  max-width: 320px;
-}
-.visitors-map img {
-  display: block;
-  border-radius: 4px;
-  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
-}
-#clustrmaps-widget-v2 {
-  margin-top: 0.5rem !important;
-}
