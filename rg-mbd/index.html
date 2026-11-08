@@ -219,7 +219,7 @@
       <h2 class="title is-3 has-text-centered">Ablations</h2>
       <div class="content has-text-justified">
         <p>
-          Sampling-budget and stepwise-constraint ablations isolate latency / support trade-offs and show why recoverability filtering alone is preferred online.
+          A sampling-budget ablation isolates the latency / support trade-off for online short-horizon planning.
         </p>
       </div>
 
@@ -231,33 +231,6 @@
         </p>
       </div>
 
-      <h3 class="title is-4 has-text-centered">Ours vs Ours + Stepwise Constraints</h3>
-      <div class="table-container">
-        <table class="table is-striped is-fullwidth is-hoverable result-table">
-          <thead>
-            <tr>
-              <th>Metric</th>
-              <th>Ours</th>
-              <th>Ours + stepwise</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr class="ours-row"><td>Collision-free episodes</td><td><strong>100%</strong></td><td>94%</td></tr>
-            <tr class="ours-row"><td>Task success</td><td><strong>94%</strong></td><td>66%</td></tr>
-            <tr class="ours-row"><td>Feasible candidate fraction</td><td><strong>71.72%</strong></td><td>31.22%</td></tr>
-            <tr><td>Empty-support steps (N<sub>∅</sub>)</td><td><strong>4</strong></td><td>493</td></tr>
-            <tr><td>Mean min. clearance</td><td>2.49 cm</td><td>21.10 cm</td></tr>
-            <tr class="ours-row"><td>Mean reward</td><td><strong>−0.0586</strong></td><td>−1.0248</td></tr>
-          </tbody>
-        </table>
-      </div>
-      <div class="content has-text-justified">
-        <p>
-          Adding open-loop stepwise DCBF checks on DIAL-predicted trajectories collapses support
-          (493 empty-support steps; 154 were feasible under Ours before the stepwise filter)
-          and hurts task success despite larger mean clearance.
-        </p>
-      </div>
     </div>
   </section>
 
