@@ -28,6 +28,20 @@ body {
   object-fit: contain;
 }
 
+/* Match side-by-side clips to the same 16:9 frame as two_obstacle_side. */
+.publication-video-16x9 {
+  aspect-ratio: 16 / 9;
+  background: #000 !important;
+}
+
+.publication-video-16x9 video {
+  position: absolute !important;
+  inset: 0;
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: contain;
+}
+
 .method-figure,
 .result-figure {
   width: 100%;
