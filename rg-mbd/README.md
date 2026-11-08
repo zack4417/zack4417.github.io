@@ -3,6 +3,12 @@
 Academic project page using the same Bulma / Nerfies-style layout as
 [OACP](https://zack4417.github.io/oacp-website/).
 
+**Live page:** https://zack4417.github.io/rg-mbd/
+
+Published from this folder into
+[`zack4417/zack4417.github.io`](https://github.com/zack4417/zack4417.github.io)
+under `/rg-mbd/`.
+
 ## Preview locally
 
 ```bash
@@ -12,12 +18,9 @@ python3 -m http.server 8000
 
 Open `http://localhost:8000`.
 
-## Deploy to GitHub Pages
+## Update the live site
 
-Copy this folder to a dedicated site repo (recommended) or enable Pages on
-`/website` / `/docs` in the paper repo.
-
-## Notes
-- White background and centered title / author / button layout match OACP.
-- Demo video poster is a simulation figure (no hardware cover).
-- Add arXiv / PDF buttons in `index.html` when available.
+```bash
+rsync -a --delete ./ /tmp/zack4417.github.io/rg-mbd/
+# then commit + push master on zack4417.github.io
+```
