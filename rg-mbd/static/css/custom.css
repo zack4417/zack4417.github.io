@@ -1,0 +1,62 @@
+body {
+  background: #ffffff;
+}
+
+/* Override OACP/Nerfies 16:9 iframe shell so local MP4 stays tight. */
+.publication-video {
+  position: relative !important;
+  width: 100% !important;
+  max-width: 960px;
+  height: auto !important;
+  margin: 0 auto;
+  padding: 0 !important;
+  padding-bottom: 0 !important;
+  line-height: 0;
+  overflow: hidden;
+  border-radius: 8px !important;
+  background: transparent !important;
+}
+
+.publication-video video {
+  position: static !important;
+  width: 100% !important;
+  height: auto !important;
+  display: block;
+  margin: 0;
+  padding: 0;
+  background: transparent !important;
+  object-fit: contain;
+}
+
+.method-figure,
+.result-figure {
+  width: 100%;
+  max-width: 900px;
+  height: auto;
+  margin: 1rem auto 0.75rem;
+  border-radius: 8px;
+}
+
+.result-table {
+  font-size: 0.92rem;
+}
+
+.result-table th,
+.result-table td {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.result-table th:first-child,
+.result-table td:first-child {
+  text-align: left;
+}
+
+.ours-row {
+  background: #f3f8ff !important;
+  font-weight: 600;
+}
+
+.footer {
+  padding: 2.5rem 1.5rem 3rem;
+}

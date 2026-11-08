@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Recovery-Guided Model-Based Diffusion for Safety-Critical Legged Locomotion" />
+  <meta name="keywords" content="Model-based diffusion, safe control, legged locomotion" />
+  <title>Recovery-Guided Model-Based Diffusion</title>
+
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet" />
+  <link rel="stylesheet" href="./static/css/bulma.min.css" />
+  <link rel="stylesheet" href="./static/css/fontawesome.all.min.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css" />
+  <link rel="stylesheet" href="./static/css/index.css" />
+  <link rel="stylesheet" href="./static/css/custom.css" />
+  <script defer src="./static/js/fontawesome.all.min.js"></script>
+</head>
+<body>
+  <nav class="navbar" role="navigation" aria-label="main navigation">
+    <div class="navbar-brand">
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+  </nav>
+
+  <section class="hero">
+    <div class="hero-body">
+      <div class="container is-max-desktop">
+        <div class="columns is-centered">
+          <div class="column has-text-centered">
+            <h1 class="title is-1 publication-title">
+              Recovery-Guided Model-Based Diffusion for Safety-Critical Legged Locomotion
+            </h1>
+
+            <div class="is-size-5 publication-authors">
+              <span class="author-block">
+                <a href="mailto:zack.zheng@nus.edu.sg">Lei Zheng</a><sup>1</sup>,
+              </span>
+              <span class="author-block">
+                <a href="mailto:shivamsood@u.nus.edu">Shivam Sood</a><sup>2</sup>,
+              </span>
+              <span class="author-block">
+                <a href="mailto:mithun.vanniasinghe@u.nus.edu">Mithun Vanniasinghe</a><sup>1</sup>,
+              </span>
+              <span class="author-block">
+                <a href="mailto:guillaume.sartoretti@nus.edu.sg">Guillaume Sartoretti</a><sup>2</sup>,
+              </span>
+              <span class="author-block">
+                <a href="mailto:armin.lederer@nus.edu.sg">Armin Lederer</a><sup>1</sup>
+              </span>
+            </div>
+
+            <div class="is-size-5 publication-authors">
+              <span class="author-block"><sup>1</sup>Department of Electrical and Computer Engineering, NUS</span>
+              <span class="author-block"><sup>2</sup>Department of Mechanical Engineering, NUS</span>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">Abstract</h2>
+          <div class="content has-text-justified">
+            <p>
+              Safety-critical high-speed legged locomotion requires motion planners to balance safety foresight with online computational efficiency.
+              Although short prediction horizons reduce rollout costs, they provide limited safety foresight and strict safety constraints severely restrict the feasible trajectory space.
+              We propose a recovery-guided model-based diffusion (MBD) framework for safety-critical legged locomotion.
+              It incorporates a learned terminal recovery critic into short-horizon trajectory optimization.
+              Specifically, the critic approximates the worst-case future clearance margin along rollouts of a designated recovery policy.
+              We introduce a feasibility-guided refinement strategy that combines within-horizon constraints and terminal recoverability at each sampling stage, while retaining feasible elites to mitigate sampling-support loss.
+              Across 50 paired randomized Unitree Go2 obstacle-avoidance trials, our approach achieves zero collisions and 98% strict-clearance success, while requiring substantially less computation than long-horizon MBD baselines.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="video">
+    <div class="container is-max-desktop">
+      <h2 class="title is-3 has-text-centered">Video</h2>
+
+      <h3 class="title is-5 has-text-centered">Single-Obstacle Comparison</h3>
+      <div class="publication-video">
+        <video controls playsinline preload="metadata" poster="assets/figs/demo_poster.jpg">
+          <source src="assets/video/demo.mp4" type="video/mp4" />
+        </video>
+      </div>
+      <div class="content has-text-justified" style="margin-top: 0.75rem;">
+        <p>
+          Dual-view simulation comparison of recovery-guided short-horizon planning against longer-horizon DIAL baselines.
+        </p>
+      </div>
+
+      <h3 class="title is-5 has-text-centered" style="margin-top: 2rem;">Two-Obstacle Sequential Scenario</h3>
+      <div class="columns is-desktop is-variable is-3" style="margin-top: 0.5rem;">
+        <div class="column">
+          <div class="publication-video">
+            <video controls playsinline preload="metadata" poster="assets/figs/two_obstacle_poster.jpg">
+              <source src="assets/video/two_obstacle_side.mp4" type="video/mp4" />
+            </video>
+          </div>
+          <p class="has-text-centered" style="margin-top: 0.5rem;">Side view</p>
+        </div>
+        <div class="column">
+          <div class="publication-video">
+            <video controls playsinline preload="metadata" poster="assets/figs/two_obstacle_poster.jpg">
+              <source src="assets/video/two_obstacle_topdown.mp4" type="video/mp4" />
+            </video>
+          </div>
+          <p class="has-text-centered" style="margin-top: 0.5rem;">Top-down view</p>
+        </div>
+      </div>
+      <div class="content has-text-justified">
+        <p>
+          Recovery-guided H10 planning on a sequential two-obstacle avoidance task (side and top-down views).
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="method">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">Method</h2>
+          <div class="content has-text-justified">
+            <p>
+              A neural terminal recovery critic approximates the worst future clearance margin under a fixed long-horizon recovery policy.
+              Online short-horizon MBD then filters and reweights candidates using within-horizon safety, physical feasibility, and terminal recoverability.
+            </p>
+          </div>
+          <img class="center-image method-figure" src="assets/figs/illustration.png" alt="Finite-horizon safety limitation illustration" />
+          <div class="content has-text-justified">
+            <p>
+              Finite-horizon limitation with H=10: a trajectory can remain safe inside the horizon yet terminate in a state that is not safely recoverable.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="results">
+    <div class="container is-max-desktop">
+      <h2 class="title is-3 has-text-centered">Simulation Results</h2>
+      <div class="content has-text-justified">
+        <p>
+          Unitree Go2 high-speed obstacle avoidance in GPU-parallel MuJoCo MJX.
+          All methods share task objectives, actuator limits, sampling budgets, initial states, and seeds on 50 paired randomized scenarios.
+        </p>
+      </div>
+
+      <h3 class="title is-4 has-text-centered">Performance Comparison</h3>
+      <div class="table-container">
+        <table class="table is-striped is-fullwidth is-hoverable result-table">
+          <thead>
+            <tr>
+              <th>Method</th>
+              <th>H</th>
+              <th>r<sub>col</sub> (%) ↓</th>
+              <th>d<sub>min</sub> (cm) ↑</th>
+              <th>r<sub>safe</sub> (%) ↑</th>
+              <th>ρ<sub>feas</sub> (%)</th>
+              <th>t<sub>com</sub> (ms) ↓</th>
+              <th>t<sub>p95</sub> (ms) ↓</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr><td>DIAL</td><td>10</td><td>98.0</td><td>−2.77±2.50</td><td>0.0</td><td>—</td><td><strong>31.0±0.1</strong></td><td><strong>31.2</strong></td></tr>
+            <tr><td>DIAL</td><td>20</td><td>68.0</td><td>−0.13±4.07</td><td>20.0</td><td>—</td><td>113.9±0.5</td><td>114.7</td></tr>
+            <tr><td>DIAL</td><td>50</td><td>58.0</td><td>−0.37±3.52</td><td>22.0</td><td>—</td><td>273.3±1.5</td><td>276.1</td></tr>
+            <tr><td>Shield-DIAL</td><td>10</td><td>96.0</td><td>−1.78±1.74</td><td>0.0</td><td>—</td><td>31.3±0.1</td><td>31.4</td></tr>
+            <tr><td>Shield-DIAL</td><td>20</td><td>68.0</td><td>−0.60±3.23</td><td>20.0</td><td>—</td><td>114.2±0.3</td><td>114.4</td></tr>
+            <tr><td>Shield-DIAL</td><td>50</td><td>60.0</td><td>−0.57±3.23</td><td>20.0</td><td>—</td><td>273.4±0.8</td><td>274.7</td></tr>
+            <tr class="ours-row"><td><strong>Ours</strong></td><td>10</td><td><strong>0.0</strong></td><td>3.57±2.75</td><td><strong>98.0</strong></td><td>54.6</td><td>100.1±0.1</td><td>100.3</td></tr>
+            <tr><td>Dual-shield</td><td>10</td><td>2.0</td><td><strong>4.55±3.58</strong></td><td>94.0</td><td><strong>56.9</strong></td><td>100.1±0.1</td><td>100.3</td></tr>
+            <tr><td>Soft-guided</td><td>10</td><td>20.0</td><td>2.14±4.44</td><td>80.0</td><td>49.2</td><td>100.0±0.1</td><td>100.3</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="content has-text-justified">
+        <p>
+          Ours (H=10) reaches zero collisions and 98% strict 2&nbsp;cm safety while remaining faster than DIAL at H=20/50.
+          Hard feasibility gating matters: Soft-guided rises to 20% collisions.
+        </p>
+      </div>
+
+      <img class="center-image result-figure" src="assets/figs/sim_snap.png" alt="Stroboscopic comparison of DIAL horizons and recovery-guided MBD" />
+      <div class="content has-text-justified">
+        <p>
+          Obstacle-avoidance snapshots: DIAL with H=10/20/50 versus recovery-guided MBD with H=10.
+          Yellow curves show executed base trajectories; translucent poses are closed-loop states at 20-step intervals.
+        </p>
+      </div>
+
+      <img class="center-image result-figure" src="assets/figs/safety_evolution.png" alt="Safety evolution comparison across methods" />
+      <div class="content has-text-justified">
+        <p>
+          Safety comparison. (a) Minimum whole-body clearance with 2&nbsp;cm margin and contact boundary.
+          (b) Executed safety state over the episode.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="ablation">
+    <div class="container is-max-desktop">
+      <h2 class="title is-3 has-text-centered">Ablations</h2>
+      <div class="content has-text-justified">
+        <p>
+          Sampling-budget and stepwise-constraint ablations isolate latency / support trade-offs and show why recoverability filtering alone is preferred online.
+        </p>
+      </div>
+
+      <img class="center-image result-figure" src="assets/figs/runtime_budget.png" alt="Runtime and sampling budget ablation" />
+      <div class="content has-text-justified">
+        <p>
+          Computational-budget ablation. Reducing refinements or sample count raises planning frequency;
+          N<sub>s</sub>=512, M=1 meets a 20&nbsp;ms average budget with reduced task performance.
+        </p>
+      </div>
+
+      <h3 class="title is-4 has-text-centered">Ours vs Ours + Stepwise Constraints</h3>
+      <div class="table-container">
+        <table class="table is-striped is-fullwidth is-hoverable result-table">
+          <thead>
+            <tr>
+              <th>Metric</th>
+              <th>Ours</th>
+              <th>Ours + stepwise</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr class="ours-row"><td>Collision-free episodes</td><td><strong>100%</strong></td><td>94%</td></tr>
+            <tr class="ours-row"><td>Task success</td><td><strong>94%</strong></td><td>66%</td></tr>
+            <tr class="ours-row"><td>Feasible candidate fraction</td><td><strong>71.72%</strong></td><td>31.22%</td></tr>
+            <tr><td>Empty-support steps (N<sub>∅</sub>)</td><td><strong>4</strong></td><td>493</td></tr>
+            <tr><td>Mean min. clearance</td><td>2.49 cm</td><td>21.10 cm</td></tr>
+            <tr class="ours-row"><td>Mean reward</td><td><strong>−0.0586</strong></td><td>−1.0248</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="content has-text-justified">
+        <p>
+          Adding open-loop stepwise DCBF checks on DIAL-predicted trajectories collapses support
+          (493 empty-support steps; 154 were feasible under Ours before the stepwise filter)
+          and hurts task success despite larger mean clearance.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="columns is-centered">
+        <div class="column is-8">
+          <div class="content has-text-centered">
+            <p>
+              Recovery-Guided Model-Based Diffusion · National University of Singapore
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>
