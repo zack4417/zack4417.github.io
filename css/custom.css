@@ -124,6 +124,25 @@
   font-size: 1.2rem;
 }
 
+#experience .timeline-logo {
+  margin: 0 0 0.45rem;
+}
+
+#experience .timeline-logo img {
+  height: 44px;
+  width: auto;
+  max-width: 170px;
+  object-fit: contain;
+  display: inline-block;
+  vertical-align: middle;
+  background: #fff;
+}
+
+#experience .timeline-item:nth-child(even) .timeline-logo {
+  display: flex;
+  justify-content: flex-end;
+}
+
 #experience .timeline-item {
   width: calc(50% - 20px);
   position: relative;
@@ -238,6 +257,10 @@
     padding-left: 1.1rem;
     padding-right: 0;
     list-style-position: outside;
+  }
+
+  #experience .timeline-item:nth-child(even) .timeline-logo {
+    justify-content: flex-start;
   }
 
   #experience .timeline-date {
