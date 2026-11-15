@@ -97,99 +97,160 @@
   font-size: 0.88rem;
 }
 
-/* Experience — dense CV timeline (no heavy cards) */
+/* Experience — zigzag timeline (cen-jun.com style) */
 #experience.home-section {
   padding-top: 2.5rem;
-  padding-bottom: 2.5rem;
+  padding-bottom: 3rem;
 }
 
-#experience .section-heading h1 {
+#experience .exp-timeline {
+  margin: 0 auto;
+  max-width: 980px;
+}
+
+#experience .exp-timeline-heading {
+  text-align: left;
+  margin: 0 0 1.25rem;
+}
+
+#experience .exp-timeline-heading h1 {
+  font-size: 1.7rem;
+  font-weight: 700;
+  margin: 0;
+}
+
+#experience .exp-timeline-heading h1 i {
+  margin-right: 0.4rem;
+  font-size: 1.2rem;
+}
+
+#experience .timeline-item {
+  width: calc(50% - 20px);
+  position: relative;
+  padding-bottom: 1.6rem;
+}
+
+#experience .timeline-item:before {
+  width: 11px;
+  height: 11px;
+  background: #333;
+  content: "";
+  display: block;
+  position: absolute;
+  border-radius: 5px;
+  top: 6px;
+}
+
+#experience .timeline-item:nth-child(odd) {
+  margin-left: 50%;
+  padding-left: 20px;
+  border-left: 5px solid #333;
+  text-align: left;
+}
+
+#experience .timeline-item:nth-child(odd):before {
+  left: -8px;
+}
+
+#experience .timeline-item:nth-child(even) {
+  margin-right: calc(50% + 20px);
+  padding-right: 20px;
+  border-right: 5px solid #333;
+  text-align: right;
+}
+
+#experience .timeline-item:nth-child(even):before {
+  right: -8px;
+}
+
+#experience .timeline-date {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #113f7c;
+  margin-bottom: 0.15rem;
+}
+
+#experience .timeline-title {
+  font-size: 1.2rem;
+  font-weight: 500;
+  color: #9b3022;
+  line-height: 1.35;
   margin-bottom: 0.2rem;
 }
 
-#experience .section-heading p {
-  margin-bottom: 0;
-  color: #607d8b;
-  font-size: 0.92rem;
-}
-
-#experience .row.experience {
-  margin-bottom: 0;
-}
-
-#experience .col.py-2 {
-  padding-top: 0.35rem !important;
-  padding-bottom: 0.35rem !important;
-}
-
-#experience .card {
-  border: none;
-  background: transparent;
-  box-shadow: none;
-}
-
-#experience .card-body {
-  padding: 0.35rem 0 0.55rem 0.15rem;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
-}
-
-#experience .row.experience:last-child .card-body {
-  border-bottom: none;
-  padding-bottom: 0.15rem;
-}
-
-#experience .exp-title {
-  font-weight: 600;
-  font-size: 1.02rem;
-  color: #1f2a33 !important;
-  letter-spacing: -0.01em;
-}
-
-#experience .exp-company {
+#experience .timeline-title a {
+  color: #1565c0;
   font-weight: 500;
+}
+
+#experience .timeline-title a:hover {
+  text-decoration: underline;
+}
+
+#experience .timeline-desc {
   font-size: 0.95rem;
-  color: #455a64 !important;
+  font-weight: 400;
+  line-height: 1.45;
+  color: #333;
 }
 
-#experience .exp-company a {
-  color: inherit;
+#experience .timeline-desc p {
+  margin: 0 0 0.35rem;
 }
 
-#experience .exp-meta {
-  font-size: 0.82rem;
-  margin-top: 0.1rem;
-  color: #78909c !important;
-}
-
-#experience .card-text {
-  margin-top: 0.3rem;
-  font-size: 0.88rem;
-  line-height: 1.42;
-  color: #546e7a;
-}
-
-#experience .card-text p {
-  margin-bottom: 0.25rem;
-}
-
-#experience .card-text ul {
+#experience .timeline-desc ul {
   margin: 0.15rem 0 0;
-  padding-left: 1.05rem;
+  padding-left: 1.1rem;
 }
 
-#experience .card-text li {
+#experience .timeline-item:nth-child(even) .timeline-desc ul {
+  padding-left: 0;
+  padding-right: 1.1rem;
+  list-style-position: inside;
+}
+
+#experience .timeline-desc li {
   margin-bottom: 0.05rem;
 }
 
-#experience .badge.badge-pill.border {
-  width: 0.65rem;
-  height: 0.65rem;
-  padding: 0;
-}
+@media screen and (max-width: 700px) {
+  #experience .timeline-item,
+  #experience .timeline-item:nth-child(odd),
+  #experience .timeline-item:nth-child(even) {
+    width: 100%;
+    margin-left: 8px;
+    margin-right: 0;
+    padding-left: 18px;
+    padding-right: 0;
+    border-left: 5px solid #333;
+    border-right: 0;
+    text-align: left;
+  }
 
-#experience .exp-fill {
-  background: #3949ab;
-  border-color: #3949ab !important;
+  #experience .timeline-item:before,
+  #experience .timeline-item:nth-child(odd):before,
+  #experience .timeline-item:nth-child(even):before {
+    left: -8px;
+    right: auto;
+  }
+
+  #experience .timeline-item:nth-child(even) .timeline-desc ul {
+    padding-left: 1.1rem;
+    padding-right: 0;
+    list-style-position: outside;
+  }
+
+  #experience .timeline-date {
+    font-size: 0.92rem;
+  }
+
+  #experience .timeline-title {
+    font-size: 1.05rem;
+  }
+
+  #experience .timeline-desc {
+    font-size: 0.88rem;
+  }
 }
 
 /* Publications citation block */
