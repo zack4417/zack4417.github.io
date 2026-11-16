@@ -169,6 +169,11 @@
   background: #fff;
 }
 
+#experience .timeline-date img[src*="cmu-ri"] {
+  height: 44px;
+  max-width: 260px;
+}
+
 #experience .timeline-item {
   width: 50%;
   box-sizing: border-box;
