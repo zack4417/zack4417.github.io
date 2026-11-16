@@ -139,23 +139,34 @@
   background: #333;
 }
 
-#experience .timeline-logo {
-  margin: 0 0 0.15rem;
-}
-
-#experience .timeline-logo img {
-  height: 36px;
-  width: auto;
-  max-width: 150px;
-  object-fit: contain;
-  display: inline-block;
-  vertical-align: middle;
-  background: #fff;
-}
-
-#experience .timeline-item:nth-child(even) .timeline-logo {
+#experience .timeline-date {
   display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  font-size: 1rem;
+  font-weight: 600;
+  color: #113f7c;
+  margin-bottom: 0.1rem;
+  line-height: 1.2;
+}
+
+#experience .timeline-item:nth-child(even) .timeline-date {
   justify-content: flex-end;
+}
+
+#experience .timeline-date a {
+  display: inline-flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+#experience .timeline-date img {
+  height: 40px;
+  width: auto;
+  max-width: 120px;
+  object-fit: contain;
+  display: block;
+  background: #fff;
 }
 
 #experience .timeline-item {
@@ -197,19 +208,13 @@
   right: -6px;
 }
 
-#experience .timeline-date {
-  font-size: 1rem;
-  font-weight: 600;
-  color: #113f7c;
-  margin-bottom: 0.05rem;
-}
-
 #experience .timeline-title {
   font-size: 1.1rem;
   font-weight: 500;
   color: #9b3022;
   line-height: 1.3;
   margin-bottom: 0.1rem;
+  white-space: nowrap;
 }
 
 #experience .timeline-title a {
@@ -281,7 +286,7 @@
     list-style-position: outside;
   }
 
-  #experience .timeline-item:nth-child(even) .timeline-logo {
+  #experience .timeline-item:nth-child(even) .timeline-date {
     justify-content: flex-start;
   }
 
@@ -291,6 +296,7 @@
 
   #experience .timeline-title {
     font-size: 1.05rem;
+    white-space: normal;
   }
 
   #experience .timeline-desc {
