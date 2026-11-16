@@ -97,10 +97,10 @@
   font-size: 0.88rem;
 }
 
-/* Experience — zigzag timeline (cen-jun.com style) */
+/* Experience — zigzag timeline (cen-jun.com style): one center line */
 #experience.home-section {
-  padding-top: 2.5rem;
-  padding-bottom: 3rem;
+  padding-top: 1.75rem;
+  padding-bottom: 1.75rem;
 }
 
 #experience .exp-timeline {
@@ -110,7 +110,7 @@
 
 #experience .exp-timeline-heading {
   text-align: left;
-  margin: 0 0 1.25rem;
+  margin: 0 0 0.45rem;
 }
 
 #experience .exp-timeline-heading h1 {
@@ -124,14 +124,29 @@
   font-size: 1.2rem;
 }
 
+#experience .timeline-body {
+  position: relative;
+}
+
+#experience .timeline-body::before {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 0.35rem;
+  bottom: 0.2rem;
+  width: 4px;
+  margin-left: -2px;
+  background: #333;
+}
+
 #experience .timeline-logo {
-  margin: 0 0 0.45rem;
+  margin: 0 0 0.15rem;
 }
 
 #experience .timeline-logo img {
-  height: 44px;
+  height: 36px;
   width: auto;
-  max-width: 170px;
+  max-width: 150px;
   object-fit: contain;
   display: inline-block;
   vertical-align: middle;
@@ -144,9 +159,11 @@
 }
 
 #experience .timeline-item {
-  width: calc(50% - 20px);
+  width: 50%;
+  box-sizing: border-box;
   position: relative;
-  padding-bottom: 1.6rem;
+  padding: 0.05rem 1.4rem 0.5rem;
+  border: 0;
 }
 
 #experience .timeline-item:before {
@@ -156,45 +173,43 @@
   content: "";
   display: block;
   position: absolute;
-  border-radius: 5px;
-  top: 6px;
+  border-radius: 50%;
+  top: 0.4rem;
+  z-index: 1;
 }
 
 #experience .timeline-item:nth-child(odd) {
   margin-left: 50%;
-  padding-left: 20px;
-  border-left: 5px solid #333;
   text-align: left;
 }
 
 #experience .timeline-item:nth-child(odd):before {
-  left: -8px;
+  left: -6px;
 }
 
 #experience .timeline-item:nth-child(even) {
-  margin-right: calc(50% + 20px);
-  padding-right: 20px;
-  border-right: 5px solid #333;
+  margin-left: 0;
+  margin-right: 0;
   text-align: right;
 }
 
 #experience .timeline-item:nth-child(even):before {
-  right: -8px;
+  right: -6px;
 }
 
 #experience .timeline-date {
   font-size: 1rem;
   font-weight: 600;
   color: #113f7c;
-  margin-bottom: 0.15rem;
+  margin-bottom: 0.05rem;
 }
 
 #experience .timeline-title {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   font-weight: 500;
   color: #9b3022;
-  line-height: 1.35;
-  margin-bottom: 0.2rem;
+  line-height: 1.3;
+  margin-bottom: 0.1rem;
 }
 
 #experience .timeline-title a {
@@ -207,53 +222,60 @@
 }
 
 #experience .timeline-desc {
-  font-size: 0.95rem;
+  font-size: 0.92rem;
   font-weight: 400;
-  line-height: 1.45;
+  line-height: 1.4;
   color: #333;
 }
 
 #experience .timeline-desc p {
-  margin: 0 0 0.35rem;
+  margin: 0 0 0.2rem;
 }
 
 #experience .timeline-desc ul {
-  margin: 0.15rem 0 0;
+  margin: 0.1rem 0 0;
   padding-left: 1.1rem;
 }
 
 #experience .timeline-item:nth-child(even) .timeline-desc ul {
-  padding-left: 0;
-  padding-right: 1.1rem;
-  list-style-position: inside;
+  display: inline-block;
+  text-align: left;
+  padding-left: 1.1rem;
+  padding-right: 0;
+  list-style-position: outside;
 }
 
 #experience .timeline-desc li {
-  margin-bottom: 0.05rem;
+  margin-bottom: 0;
 }
 
 @media screen and (max-width: 700px) {
+  #experience .timeline-body::before {
+    left: 6px;
+    margin-left: 0;
+  }
+
   #experience .timeline-item,
   #experience .timeline-item:nth-child(odd),
   #experience .timeline-item:nth-child(even) {
     width: 100%;
-    margin-left: 8px;
+    margin-left: 0;
     margin-right: 0;
-    padding-left: 18px;
-    padding-right: 0;
-    border-left: 5px solid #333;
-    border-right: 0;
+    padding: 0.05rem 0 0.5rem 1.4rem;
+    border: 0;
     text-align: left;
   }
 
   #experience .timeline-item:before,
   #experience .timeline-item:nth-child(odd):before,
   #experience .timeline-item:nth-child(even):before {
-    left: -8px;
+    left: 1px;
     right: auto;
   }
 
   #experience .timeline-item:nth-child(even) .timeline-desc ul {
+    display: block;
+    text-align: left;
     padding-left: 1.1rem;
     padding-right: 0;
     list-style-position: outside;
